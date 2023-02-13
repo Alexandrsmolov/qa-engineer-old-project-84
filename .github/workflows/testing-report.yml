@@ -1,12 +1,20 @@
 ---
 - summary: |
     Тестирование смены языка на "Russian".
-  status: pass
+  status: fall
 
 - summary: |
     Тестирование сортировщика по цене.
-  status: pass
+  status: fall
 
 - summary: |
     Тестирование поисковой стоки на сайте.
   status: pass
+
+- summary: |
+    Тестирование функционала корзины товаров.
+  status: fall
+  
+- summary: |
+    Тестирование визуальной составляющей.
+  status: fall
